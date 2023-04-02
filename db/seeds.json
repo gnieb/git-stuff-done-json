@@ -1,5 +1,5 @@
 {
-  "toDos": [
+  "tasks": [
     {
       "id": 1,
       "name": "Get gas",
@@ -17,6 +17,70 @@
       "note to self": "complete labs suggested in Slack channel",
       "done": false,
       "priority": true
+    },
+    {
+      "name": "Vacuum",
+      "due": "2023-03-11",
+      "category": "Around the House",
+      "note to self": "Vacuum upstairs only, and not in Sam's room",
+      "done": false,
+      "priority": false,
+      "id": 3
+    },
+    {
+      "name": "finish tailwind tutorial",
+      "due": "",
+      "category": "Web Dev",
+      "note to self": "take breaks!!",
+      "done": false,
+      "priority": false,
+      "id": 4
+    },
+    {
+      "name": "bake a cake",
+      "due": "",
+      "category": "Around the House",
+      "note to self": "pink frosting",
+      "done": false,
+      "priority": false,
+      "id": 5
+    },
+    {
+      "name": "clean the bathroom",
+      "due": "2023-03-31",
+      "category": "Around the House",
+      "note to self": "ew",
+      "done": false,
+      "priority": false,
+      "id": 6
+    },
+    {
+      "name": "Send Paige and Noah's note",
+      "due": "",
+      "category": "",
+      "note to self": "",
+      "done": false,
+      "priority": false,
+      "id": 7
+    },
+    {
+      "name": "Vacuum",
+      "due": "2023-03-11",
+      "category": "Around the House",
+      "note to self": "Vacuum upstairs only, and not in Sam's room",
+      "done": false,
+      "priority": false,
+      "id": 8
+    }
+
+  ],
+  "events": [
+    {
+      "title": "Kickboxing",
+      "start": "new Date(2023, 3, 25, 9, 0, 0)",
+      "end": "new Date(2023, 3, 25, 10, 0, 0)",
+      "allDay?": false,
+      "resource?": ""
     }
   ]
 }
