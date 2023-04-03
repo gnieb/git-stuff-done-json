@@ -71,16 +71,24 @@
       "done": false,
       "priority": false,
       "id": 8
+    },
+    {
+      "name": "Re-pot plants",
+      "due": "",
+      "category": "Around the House",
+      "note to self": "ask Noah which pot he likes and use the new g-fac  new pots",
+      "done": false,
+      "priority": false,
+      "id": 9
     }
-
   ],
   "events": [
     {
+      "id": 1,
       "title": "Kickboxing",
-      "start": "new Date(2023, 3, 25, 9, 0, 0)",
-      "end": "new Date(2023, 3, 25, 10, 0, 0)",
-      "allDay?": false,
-      "resource?": ""
+      "start": "new Date(2023, 4, 05, 9, 0, 0)",
+      "end": "new Date(2023, 4, 05, 10, 0, 0)",
+      "resourceId": ""
     }
   ]
 }
